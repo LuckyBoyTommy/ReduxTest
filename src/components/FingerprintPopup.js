@@ -27,5 +27,5 @@ FingerprintPopup.propTypes = {
   handlePopupSuccessDismissed: PropTypes.func.isRequired,
   handlePopupFailDismissed: PropTypes.func.isRequired
 };
-//jhfjkdshfjksdhfjkdsgghsdsdggfg
+//gg
 export default FingerprintPopup;
